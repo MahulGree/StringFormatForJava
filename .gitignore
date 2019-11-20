@@ -4,9 +4,14 @@
 
 tomcat
 
+git.txt
+
 #
 # Default excludes
 #
+
+#BAT scripts
+*.bat
 
 # Binaries
 *.7z
