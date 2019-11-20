@@ -1,4 +1,4 @@
-#String format for Java
+# String format for Java
 
 ѕримери за форматиране на стрингове в Java.
 
